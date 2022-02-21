@@ -1,9 +1,12 @@
-<a href="#"><h1 align="center"><img width="20%" height="auto" src="https://cdn-icons-png.flaticon.com/512/2463/2463478.png" height="75px"/></h1></a>
+<p>
+ <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Developer👩‍💻;" />
+</p>
+
+<a href="#"><h1 align="center"><img width="15%" height="auto" src="https://cdn-icons-png.flaticon.com/512/2463/2463478.png" height="10px"/></h1></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amasha
 </h1>
 <h3 align="center">I'm a passionate Software Developer from Sri Lanka.</h3>
-
 
 ## 🙋‍♂️ About Me
 
@@ -15,7 +18,7 @@
 
 - ⚡ Fun fact  O_O 👉🖌🖍🖤👈
 
-
+<br/>
 
 ## 🚀 Languages and Tools:
 
@@ -55,15 +58,6 @@
 <a href="https://github.com/Amasha2000/github-readme-activity-graph"><img alt="Amasha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amasha2000&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "http://www.linkedin.com/in/amasha-madushani-3764b0225"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/amasha_madushani/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
 
 ## ❤ Views 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
