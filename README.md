@@ -4,7 +4,7 @@
 
 <a href="#"><h1 align="center"><img width="15%" height="auto" src="https://cdn-icons-png.flaticon.com/512/2463/2463478.png" height="10px"/></h1></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I'm Amasha
+<h1 align="center">Hi <img width="4%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I'm Amasha
 </h1>
 <h3 align="center">I'm a passionate Software Developer from Sri Lanka.</h3>
 
