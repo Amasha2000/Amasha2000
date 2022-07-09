@@ -1,6 +1,4 @@
-<p>
- <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Developer👩‍💻;" />
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=9A79AB&size=30&lines=Hey!+It's+Amasha!;Welcome+to+my+Profile!;I'm+a+Developer...)](https://git.io/typing-svg)
 
 <a href="#"><h1 align="center"><img width="15%" height="auto" src="https://cdn-icons-png.flaticon.com/512/2463/2463478.png" height="10px"/></h1></a>
 
