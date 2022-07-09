@@ -41,15 +41,17 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+<p align=center>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amasha2000&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" alt="mystreak"/>
+</p>
+
 ## 📊 My Github Stats
 
   <br/>
   
 ![Amasha's github stats](https://github-readme-stats.vercel.app/api?username=Amasha2000&show_icons=true&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amasha2000&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amasha2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="mystreak"/>
   
-  <p align=center>
-  <a href="https://github.com/Amasha2000/github-readme-stats"><img alt="Amasha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amasha2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
