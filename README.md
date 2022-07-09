@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">I'm a passionate Software Developer from Sri Lanka.</h3>
 
-## 🙋‍♂️ About Me
+## 👩‍💻 About Me
 
 - 🔭 I’m currently working on **Something Really Cool** 😉
 
@@ -15,6 +15,8 @@
 - 📫 How to reach me **amashagalhenage@gmail.com** 🙋‍♀️
 
 - ⚡ Fun fact  O_O 👉🖌🖍🖤👈
+
+- 👩‍🦰 My Portfolio **https://amasha2000.github.io/MyProfile/**
 
 <br/>
 
@@ -43,10 +45,11 @@
 
   <br/>
   
-![🔥 Amasha's github stats](https://github-readme-stats.vercel.app/api?username=Amasha2000&show_icons=true&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0)
+![Amasha's github stats](https://github-readme-stats.vercel.app/api?username=Amasha2000&show_icons=true&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amasha2000&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" alt="mystreak"/>
   
-  <a href="https://github.com/Amasha2000/github-readme-stats"><img alt="Amasha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amasha2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align=center>
+  <a href="https://github.com/Amasha2000/github-readme-stats"><img alt="Amasha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amasha2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
