@@ -1,10 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=9A79AB&size=30&lines=Hey!+It's+Amasha!;Welcome+to+my+Profile!;I'm+a+Developer...)](https://git.io/typing-svg)
 
-<a href="#"><h1 align="center"><img width="15%" height="auto" src="https://cdn-icons-png.flaticon.com/512/2463/2463478.png" height="10px"/></h1></a>
+<a href="#"><h1 align="center"><img width="35%" height="auto" img src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif"/></h1></a>
 
-<a href="#"><h1 align="center"><img src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif"/></h1></a>
-
-<h1 align="center">Hi <img width="4%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I'm Amasha
+<h1 align="center">Hi <img width="5%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I'm Amasha
 </h1>
 <h3 align="center">I'm a passionate Software Developer from Sri Lanka.</h3>
 
@@ -41,15 +39,13 @@
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Amasha2000/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amasha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Amasha2000&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My Github Stats
 
   <br/>
+  
+![🔥 Amasha's github stats](https://github-readme-stats.vercel.app/api?username=Amasha2000&show_icons=true&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amasha2000&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0" alt="mystreak"/>
+  
   <a href="https://github.com/Amasha2000/github-readme-stats"><img alt="Amasha's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amasha2000&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
