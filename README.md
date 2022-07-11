@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=9A79AB&size=30&lines=Hey!+It's+Amasha!;Welcome+to+my+Profile!;I'm+a+Developer...)](https://git.io/typing-svg)
 
-<a href="#"><h1 align="center"><img width="35%" height="auto" img src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif"/></h1></a>
+<a href="#"><h1 align="center"><img width="35%" height=auto img src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif"/></h1></a>
 
-<h1 align="center">Hi <img width="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I'm Amasha
+<h1 align="center">Hi <img width="4.5%" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" >, I'm Amasha
 </h1>
 <h3 align="center">I'm a passionate Software Developer from Sri Lanka.</h3>
 
